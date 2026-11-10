@@ -28,6 +28,7 @@ Code:
 How To Use:
 1. Run code.
 2. Input either 1, 2, 3 or 4.
+   
 3.1. If input = 1, enter password 10 times, output message, program ends.
 3.2. If input = 2, enter password up until correct or up to 5 guesses have been used, output message, program ends.
 3.3. If input = 3, enter username and password until correct or up to 3 guesses have been used, output message, program ends.
