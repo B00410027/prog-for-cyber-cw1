@@ -6,6 +6,7 @@ Banner ID - B00410027
 Campus - Lanarkshire
 
 Program:
+
 This python program will make the user navigate a menu with 4 options. The options are 1. Security Event Counter, 2. Brute Force Simulation, 3. Login Authentication, 4. Exit.
 1. Security Event Counter
    The user will be prompted to guess the password 10 times. After the 10 attempts a security alert will output depending on the percentage of incorrect guesses.
